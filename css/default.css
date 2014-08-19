@@ -30,9 +30,10 @@ body {
 	font-family: 'Nunito', Calibri, Arial, sans-serif;
 	color: #6b7381;
 	background: #f2f2f2;
+	text-transform: uppercase;
 
 }
-
+/*
 a {
 	color: #aaa;
 	text-decoration: none;
@@ -41,7 +42,7 @@ a {
 a:hover,
 a:active {
 	color: #333;
-}
+}*/
 
 /* Header Style */
 .container > header {
@@ -52,7 +53,7 @@ a:active {
 
 .container > header {
 	text-align: center;
-	background: rgba(0,0,0,0.05);
+	background: white;
 }
 
 .container > header h1 {
